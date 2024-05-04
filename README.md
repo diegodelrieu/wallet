@@ -20,3 +20,4 @@ If I had more time I would
 - Fix some visual bugs and imprecisions from the figma wireframe
 - Add some tests
 - Split the code further and remove all duplications
+- Improve the handling of non-image inscription content
