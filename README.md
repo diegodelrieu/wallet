@@ -14,7 +14,7 @@ pnpm dev
 
 ## Improvements
 
-Given the 4h constraint I wasn't able to complete everything If I had more time I would
+If I had more time I would
 
 - Improve pagination behaviour
 - Fix some visual bugs and imprecisions from the figma wireframe
